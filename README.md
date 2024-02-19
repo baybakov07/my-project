@@ -1,4 +1,4 @@
-# my_project_course
+# my_project
 Проект e-commerce: анализ совершенных покупок
 <hr>
 
